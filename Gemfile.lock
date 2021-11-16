@@ -3,7 +3,7 @@ GEM
   specs:
     activesupport (6.0.3.6)
  master
-      concurrent-chinu (~> 2.0, >= 2.0.2)
+      concurrent-ruby (~> 2.0, >= 2.0.2)
 =======
       concurrent-ruby (~> 1.0, >= 1.0.2)
  main
